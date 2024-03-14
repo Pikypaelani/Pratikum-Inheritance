@@ -1,0 +1,2 @@
+# Pratikum-Inheritance
+ 
